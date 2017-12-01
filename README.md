@@ -1,0 +1,2 @@
+# infographictable
+GitHub Pages
